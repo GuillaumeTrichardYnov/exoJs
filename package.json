@@ -1,0 +1,32 @@
+{
+  "name": "exojs",
+  "version": "1.0.0",
+  "description": "exercices js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "3.5.0",
+    "mocka": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeTrichardYnov/exoJs.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "guillaume TRICHARD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeTrichardYnov/exoJs/issues"
+  },
+  "homepage": "https://github.com/GuillaumeTrichardYnov/exoJs#readme"
+}
